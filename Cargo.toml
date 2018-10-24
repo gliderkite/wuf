@@ -1,13 +1,13 @@
 [package]
 name = "wuf"
 description = "A fast weighted implementation to the union-find problem with path compression."
-version = "0.1.1"
+version = "0.1.2"
 authors = ["gliderkite <gliderkite@gmail.com>"]
 license = "MIT"
 repository = "https://github.com/gliderkite/wuf"
 documentation = "https://docs.rs/wuf"
 homepage = "https://crates.io/crates/wuf"
 keywords = ["union-find", "quick-union", "quick-find", "weighted-quick-union"]
-categories = ["algorithms", "data structures"]
+categories = ["algorithms", "data-structures"]
 
 [dependencies]
