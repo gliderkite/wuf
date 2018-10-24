@@ -1,0 +1,6 @@
+[package]
+name = "wuf"
+version = "0.1.0"
+authors = ["gliderkite <gliderkite@gmail.com>"]
+
+[dependencies]
