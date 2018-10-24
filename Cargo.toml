@@ -1,6 +1,8 @@
 [package]
 name = "wuf"
+description = "A fast weighted implementation to the union-find problem with path compression."
 version = "0.1.0"
 authors = ["gliderkite <gliderkite@gmail.com>"]
+license = "MIT"
 
 [dependencies]
